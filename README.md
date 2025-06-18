@@ -5,3 +5,7 @@ The application operates in two distinct modes:
 -	Interactive Image Analysis: Users can trigger an analysis of a local folder of medical images, selecting from a comprehensive list of 25 medical specialties to guide the AI's perspective.
 
 This tool is built for stability, robustness, and a clean user experience, running entirely within a local terminal environment to ensure privacy and full control over system resources.
+
+This is intended for personal use. 
+
+The Medgemma Model is licensed under the Health AI Developer Foundations License - https://developers.google.com/health-ai-developer-foundations/terms
